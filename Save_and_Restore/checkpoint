@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/huzing2524/Desktop/Projects/machine_learning/05_chapter/Save_and_Restore/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/huzing2524/Desktop/Projects/machine_learning/05_chapter/Save_and_Restore/model.ckpt"

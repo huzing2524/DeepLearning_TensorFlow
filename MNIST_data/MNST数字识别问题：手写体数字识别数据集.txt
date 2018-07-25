@@ -1,0 +1,10 @@
+MNST数字识别问题：手写体数字识别数据集
+
+训练数据图片：
+http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+训练数据答案：
+http://yann/lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+测试数据图片：
+http://yann/lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+测试数据答案：
+http://yann/lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
